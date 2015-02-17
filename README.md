@@ -1,4 +1,4 @@
-Docker agent container for TeamCity
+Docker agent container for TeamCity wih make and golang support
 
 Usage:
 
